@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796806898747",
+    "project_id": "eliagrazia-fff45",
+    "storage_bucket": "eliagrazia-fff45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796806898747:android:8685c698651e4890d0681e",
+        "android_client_info": {
+          "package_name": "com.example.eliagrazia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796806898747-0oeelj8c9dmqijvoqjdki40oe123opok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzDkCMV8YTH_OOriaZ9QzXX44uNtSkjb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796806898747-0oeelj8c9dmqijvoqjdki40oe123opok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
